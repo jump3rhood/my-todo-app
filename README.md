@@ -1,3 +1,7 @@
+# Todo app using React classes exclusively
+## Two primary Components: App and TodoList. TodoForm Component to add a new todo and TotalTodos displays the number of todos.
+
+#=========================================================================================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
